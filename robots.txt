@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fatangelina.github.io/seo-lab-8/sitemap.xml
